@@ -1,6 +1,7 @@
 # Greasy Fork - Search scripts on other sites (Added more sites)
 This is the official repository for the userscript called "Greasy Fork - Search scripts on other sites (Added more sites)" first launched on GresyFork.org     
 HomepageURL: https://greasyfork.org/en/scripts/9630
+
 Changelog in the changelog.txt file.
 
 
