@@ -1,5 +1,8 @@
 Changelog:
 
+Changes for 5.1:
+
+- Added "@updateURL" for various userscripts add-ons and "@downloadURL" for other userscripts add-ons.Tell me if your userscript program is affected by the presence of both of them.
 Changes for 5.0:
 
 - Added ability to search Userscripts-mirror.org through a Google Custom Search Engine.
