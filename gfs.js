@@ -4,12 +4,14 @@
 // @namespace       https://github.com/LouCypher/userscripts
 // @description     Add search option to search on Userscripts.org, OpenUserJS.org, MonkeyGuts.com (Code Remodified), Google.com(Beta;Work in progress;still functional) and Google Custom Search(Search all userscript websites with one click). Plus especially Userscripts-mirror.org(As Userscripts.org has shut down).
 // @icon            http://www.mediafire.com/convkey/6b10/64gmr1m4qul6xalzg.jpg?size_id=2
-// @version         5.0
+// @version         5.1
 // @author          HACKSCOMICON Credits:LouCypher
 // @license         MIT License
 // @contributionURL http://loucypher.github.io/userscripts/donate.html?Greasy+Fork+-+Search+other+sites
 // @homepageURL     https://greasyfork.org/en/scripts/9630
 // @supportURL      https://greasyfork.org/en/scripts/9630/feedback
+// @downloadURL     https://raw.githubusercontent.com/HACKSCOMICON/greasyforksearch/master/gfs.js
+// @updateURL       https://raw.githubusercontent.com/HACKSCOMICON/greasyforksearch/master/gfs.js
 // @resource        LICENSE https://raw.github.com/LouCypher/userscripts/master/greasyfork/search-other-sites/LICENSE.txt
 // @include         https://greasyfork.org/*
 // @grant           none
