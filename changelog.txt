@@ -1,0 +1,25 @@
+Changelog:
+
+Changes for 5.0:
+
+- Added ability to search Userscripts-mirror.org through a Google Custom Search Engine.
+
+Changes for 4.1:
+
+- Added Google Custom Search. Search all userscript websites with one click.
+
+Changes for 3.2:
+
+- Bugs and Tweaks
+
+Changes for 3.0:
+
+- Added Google.com(Beta;working but not giving the best results)
+
+Changes for 2.3:
+
+- Tweaks
+
+Changes for 2.0
+
+- Added MonkeyGuts.com
