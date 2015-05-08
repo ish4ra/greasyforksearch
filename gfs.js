@@ -12,7 +12,7 @@
 // @supportURL      https://greasyfork.org/en/scripts/9630/feedback
 // @downloadURL     https://raw.githubusercontent.com/HACKSCOMICON/greasyforksearch/master/gfs.js
 // @updateURL       https://raw.githubusercontent.com/HACKSCOMICON/greasyforksearch/master/gfs.js
-// @resource        LICENSE https://raw.github.com/LouCypher/userscripts/master/greasyfork/search-other-sites/LICENSE.txt
+// @resource        LICENSE https://raw.githubusercontent.com/HACKSCOMICON/greasyforksearch/master/LICENSE
 // @include         https://greasyfork.org/*
 // @grant           none
 // ==/UserScript==
